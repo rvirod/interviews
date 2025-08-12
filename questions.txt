@@ -1,0 +1,84 @@
+Why do you want to change?
+I want to change because i've been in the same project for a long time and i want something more challenging. Furthermore, my current team has suffered from many people leaving.
+
+Why don't you change teams?
+I think there are more interesting challenges outside the company, and my manager does not want me to leave the team, plus hiring someone would take a long time.
+
+
+Tell me about yourself?
+I'm a senior software engineer with 9 years of experience building web applications in many different techologies and languages,
+now i'm focused on backend in tb.lx a software company within daimlertruck,
+where i focus on a real time data processing pipeline and a backend to serve an UI.
+Before this, i worked on an event based microservice backend specially built for the logistic needs of very large companies.
+
+Tell me more about your current project?
+I work on building a fleet management system, where the users are interested in seeing data about their vehicles, such as fuel consumption, position tracking ect.
+This is achieved with a monolith written in java and spring boot to serve the FE, a data processing pipeline with java, apache flink and cosmosDB, and a few other services in Kotlin and spring boot.
+I have full ownership of a few small services, which i deploy with kubernetes, Helm and Azure. The monitoring stack is datadog, prometheus and grafana.
+
+What are you looking for?
+I'm looking for a company where the primary focus is software, where it is seen as a profit center.
+
+What design patterns do you use?
+Builder
+factory
+abstract factory
+singleton
+strategy
+chain of responsability
+template
+
+What are your responsabilities?
+I'm responsible for the development of the application, propose architectural changes and write ADRs, and help with technical specifications of new functionalities
+Additionally, i have some operations efforts.
+
+
+What are your strengths? What would your colleagues say about you?
+
+What are your weaknesses?
+
+What is your stack?
+
+What do you look for in code reviews?
+Data structures, DRY, SOLID
+
+What is SOLID?
+Separation of concerns
+Open-closed principle
+Liskov substitution priciple
+Interface segregation
+Dependency injection
+
+
+What is ACID?
+
+Atomicity
+Consistency
+Isolation
+Durability
+
+What is BASE?
+
+Pros of microservices:
+Independent deployability, scale the parts that need scaling, independent teams
+Cons:
+Infra costs, distributed system, more tooling, difficulty debugging
+
+
+Questions to ask:
+How is the product requirements decided? How is the upstream?
+How do you decide on an architectural change?
+How do you deploy? How often?
+If you could what would you change immediately?
+What is your approach to AI tools and code editors?
+
+
+
+
+
+
+
+
+
+
+

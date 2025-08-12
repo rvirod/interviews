@@ -1,0 +1,65 @@
+"Tell me about yourself."
+I'm a senior software engineer with 9 years of experience building web applications,
+mostly focused on backend in tb.lx a software company within daimlertruck,
+where i focus on a real time data processing pipeline and a java backend to serve an UI. And recently started working on a genAI application as well.
+Before this, i worked on an event based microservice backend specially built for the logistic needs of very large companies.
+
+
+
+"Why are you interested in XYZ?"
+
+
+"What excites you about this role?"
+
+"What do you know about our company and product?"
+
+
+Culture & Values Fit
+
+Examples:
+Making performance improvements to improve user experience and loading times, like the fuel consumption aggregation
+Receiving feedback from signal visualization
+Changing the timer in Themis, making the ADR, convincing the stakeholder/code owner, implementing and monitoring 
+
+
+
+"Tell me about a time you received constructive feedback. How did you respond?"
+A year ago, my manager asked me to have a more constant output across inititatives, since it would be better for the team and project that all have 
+some input from me. Since them, i keep notes on all ongoing inititatives in the team and improved my work environment.
+
+
+"How do you continue learning and improving in your role?"
+I read a few technical books each year and read engineering blogs like uber and Meta
+I learn new languages every few years because they give you a different view point on the one you use the most.
+
+
+
+Work Experience & Resume Clarification
+
+"Can you walk me through your most recent role and key responsibilities?"
+
+My key responsibilities are development, code reviews, proposing architectural and code design changes, and participating in writing technical specifications
+effort estimation and operations
+
+
+"Why are you looking to leave your current role?"
+I'm not happy with the direction of the company and the reduction of my team's size
+
+"What kind of projects have you worked on that relate to this position?"
+
+
+
+Behavioral & Soft Skills Questions
+
+"Describe a challenging team project you worked on. What was your role?"
+
+
+"How do you prioritize multiple projects?"
+
+"Have you worked in cross-functional teams? How did you navigate that?"
+
+
+Qual a equipa que estao a contratar?
+Qual sao as resposabilidades?
+Como definem as funcionaliades em que trabalham?
+Como e a relacao com os outros escritorios

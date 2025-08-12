@@ -1,0 +1,73 @@
+Forward looking and restless
+Creative and action oriented
+Customer led & symplifying
+Collaborative and inclusive
+
+"Tell us about a time you helped a teammate succeed."
+→ They want to see if you're supportive and collaborative, not just an individual contributor.
+
+	I have a teammate who works on a RAG and he wanted a second opinion on how the system should be designed to persist the data.
+	We went though the architecture and the ways the system could receive these files. He them discussed it with the project lead and is implementing this system.
+
+
+"How do you handle disagreements or conflicts in a team?"
+→ They're assessing emotional intelligence and your ability to maintain a healthy team culture.
+
+	I would talk with them to understand their viewpoint.
+	For example, there is a disagreement in how a a featre should be developed. I would call this person hear their approach and explain mine in comparison.
+	We would then compromise on a solution, if their's is better i would compromise.
+	If the disagreement can't be solved, then a more senior person would be involved and ask them their opinion.
+
+
+"How do you give and receive feedback?"
+→ Psychological safety and growth culture are key to Sky Portugal.
+	
+	Give both positive and constructive feedback with examples of situations where it happened. I don't like giving telling someone how they should have procceeded as it is their choice to act on the feedback or not.
+	To receive feedback, i say thank you and i'll think about what i should do. 
+
+
+
+"What does diversity in the workplace mean to you?"
+→ Be genuine, and relate it to your experience working in international/mixed teams.
+
+
+"Have you ever worked with someone from a very different background? What did you learn?"
+→ Sky values open-mindedness and the ability to collaborate cross-culturally (English is their working language).
+
+"Tell me about something new you learned recently and how you applied it."
+→ Sky encourages continuous improvement and self-driven growth.
+
+	Something that stuck with me recently is the concept of broken windows from pragmatic programmer. And i've clearly seen the effect of not caring.
+
+
+"Describe a time you challenged the status quo."
+→ They're looking for people who push boundaries, experiment, and improve processes or products.
+
+	When i got to the project, there was monitoring dashboard, so we created one and then used it to improve the performance of the application.
+	The objective was to use pareto's law and improve 20% of the endpoints, and there were some that were very slow because they made n calls to other endpoints.
+	I proposed to move those calls to the FE since they were behind a hover and weren't needed in the first place.
+
+	On another, i created a daily aggregation for fuel consumption since the data on FE was daily, i had to push this change because the user experience would change due to timezones. Afterwards, a teammate picked up the electricity consumption.
+	We didn't migrate the data because of the effort but the client was so happy that they asked us to migrate the whole year.
+	
+	When we started my teammates wouldn't read the tickets before the refinement, so it would become a reading session instead of a discussion.
+	I mentioned it on a retro, and they started to do so which improved our meeting. They saw the benefit it brought and we continued to do so.
+
+
+"How do you ensure quality in your work?"
+→ Expect this if you're in engineering/product; excellence is a key cultural pillar.
+
+	Read the ticket and documentation. Overall, it is very important that you understand the intent of the feature and what the product is trying to achieve.
+	This allows you to make suggestions to better the product. For example, i'm implementing an emergency voice message and i proposed to use the webhooks to know if the voice message was delivered instead of firing and forgetting, since it is such an important message to the client.
+	Take time to implement and experiment with different designs if needed and ask PR to developers who don't rubber stamp. 
+
+
+
+"Describe a situation where you took initiative without being asked."
+→ They want proactive problem-solvers, not just task followers.
+
+	Creating the tech debt tickets, creating the datadog dashboard, improving the performance
+	On my current development, i asked if it they wanted to use the callbacks so we could know if the message was delivered.
+
+"How do you manage work-life balance in high-pressure situations?"
+→ Sky values well-being and flexibility, so they want people who know their limits and support healthy boundaries.

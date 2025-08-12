@@ -1,0 +1,32 @@
+1. Invisible Technologies - python
+2. RevenueCat - python, EMEA
+3. AssemblyAI - python
+4. Goodnotes - applied, java, kotlin, rejected
+5. Help Scout
+7. Customer.io - america, go
+9. Edge & Node
+10. DuckDuckGo - Perl, .NET
+11. Cinder
+12. Maze
+13. Keelvar
+14. Metabase
+15. MagicSchool AI
+17. Runway - python
+18. CodeSignal
+19. Supermove - python
+20. Kalepa - python but open to java
+21. Parasol - usa
+22. Pulumi - don't match with requirements
+25. Quora
+28. Hightouch - North America only
+29. Gumroad - ?
+30. Synthesia - react, python
+31. Springbig - no jobs
+32. Xiatech - no job
+33. Constructor - python
+35. Remote
+36. Prisma - ???
+37. Sourcegraph - no jobs
+38. June.so
+39. Sumsub - no jobs
+40. CloudTalk - node

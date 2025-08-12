@@ -1,0 +1,12 @@
+1ª entrevista
+
+0 - É remote?
+1 - O escritorio é no Porto, eu teria de ir quantas vezes?
+2 - Estao a recrutar para que equipa e plataforma?
+4 - Que desenvolvimentos sao feitos pela blip? E como sao atribuidos estes à blip?
+3 - Como funciona a relaçao da blip e o resto do grupo?
+
+2ª
+Como fazem deploys? 
+Como estao as equipas montadas? Onde está o PO ou PM?
+Qual a metodologia de desenvolvimento?
