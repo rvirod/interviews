@@ -1,0 +1,24 @@
+import java.util.*;
+
+public class JavaDataStructures {
+
+    public static void main(String[] args) {
+        Map<Integer, Integer> hashMap = new HashMap<>();
+        NavigableMap<Integer, Integer> treeMap = new TreeMap<>();
+        Map<Integer, Integer> linkedHashMap = new LinkedHashMap<>();
+
+        Set<Integer> hashSet = new HashSet<>();
+        Set<Integer> linkedHashSet = new LinkedHashSet<>();
+        Set<Integer> treeSet = new TreeSet<>();
+
+        List<Integer> arrayList = new ArrayList<>();
+        List<Integer> linkedList = new LinkedList<>();
+
+        Queue<Integer> arrayDeque = new ArrayDeque<>();
+        Queue<Integer> priorityQueue = new PriorityQueue<>();
+
+        int[] ints = new int[]{1, 2};
+
+    }
+
+}
